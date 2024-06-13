@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #928cff;
+}
+
+.box{
+    padding: 10px;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    width: 200px;
+}
+
+.item{
+    padding: 8px ;
+    margin: 4px;
+    cursor: move;
+    color: white;
+    background-color: #928cff;
+    font-size: 20px;
+}
+
+.add-item{
+    padding: 20px 90px;
+    background-color: white;
+    margin: 30px;
+    border-radius: 20px;
+}
+
+.btnn{
+    background-color:#928cff;
+    color: white;
+    border:none;
+}
+.input{
+    outline: none;
+}
